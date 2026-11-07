@@ -1,4 +1,3 @@
-# .github
 # Sahtein
 
 **France-first marketplace for scheduled homemade Lebanese & Levantine meals.**
